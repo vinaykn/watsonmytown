@@ -1,4 +1,9 @@
 <!DOCTYPE HTML>
+<!--
+	Theory by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
 <html>
 	<head>
 		<title>watsonmytown</title>
@@ -25,9 +30,6 @@
 			<section id="banner">
 				<h1>Welcome to watsonmytown</h1>
 				<p>Life happens within you.</p>
-				<a href="https://twitter.com/intent/tweet?screen_name=watsonmytown" class="twitter-mention-button" data-show-count="false">Tweet to @watsonmytown</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-				<a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-				<a href="https://twitter.com/intent/tweet?button_hashtag=GreenHosur" class="twitter-hashtag-button" data-show-count="false">Tweet @watsonmytown #GreenHosur</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 			</section>
 
 		<!-- One -->
@@ -36,56 +38,110 @@
 					<div class="flex flex-3">
 						<article>
 							<header>
-								<h3>#GreenHosur<br /> </h3>
+								<h3>No. of siplings planted<br /> in locality</h3>
 							</header>
 							<p>It’s responsibility to have trees planted in earth to get the environment better. As what we exhale trees inhale and what they inhale we exhale.</p>
+							<footer>
+								<a href="#" class="button special">1</a>
+							</footer>
+						</article>
+						<article>
+							<header>
+								<h3>Yoga<br /> ...</h3>
+							</header>
+							<p>Yoga seen as tool to transform life to wellbeing.<br /><br /><br /></p>
 							<footer>
 								<a href="#" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
 							<header>
-								<h3>#Yoga<br /> </h3>
+								<h3>Cloud computing<br /> <br /></h3>
 							</header>
-							<p>Yoga seen as tool to transform life to wellbeing. Locate Yoga Centre Click More<br /><br /><br /></p>
+							<p>Technology made so ease, since ever in the planet.<br />Need a website?<br />Send me mail vinu2k5@gmail.com<br /></p>
 							<footer>
 								<a href="#" class="button special">More</a>
 							</footer>
-						</article>
-						<article>
 						</article>
 					</div>
 				</div>
 			</section>
 
 		<!-- Two -->
-			<section id="one" class="wrapper">
+			<section id="two" class="wrapper style1 special">
 				<div class="inner">
-					<div class="flex flex-3">
+					<header>
+						<h2>Ipsum Feugiat</h2>
+						<p>Semper suscipit posuere apede</p>
+					</header>
+					<div class="flex flex-4">
+						<div class="box person">
+							<div class="image round">
+								<img src="images/pic03.jpg" alt="Person 1" />
+							</div>
+							<h3>Magna</h3>
+							<p>Cipdum dolor</p>
+						</div>
+						<div class="box person">
+							<div class="image round">
+								<img src="images/pic04.jpg" alt="Person 2" />
+							</div>
+							<h3>Ipsum</h3>
+							<p>Vestibulum comm</p>
+						</div>
+						<div class="box person">
+							<div class="image round">
+								<img src="images/pic05.jpg" alt="Person 3" />
+							</div>
+							<h3>Tempus</h3>
+							<p>Fusce pellentes</p>
+						</div>
+						<div class="box person">
+							<div class="image round">
+								<img src="images/pic06.jpg" alt="Person 4" />
+							</div>
+							<h3>Dolore</h3>
+							<p>Praesent placer</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Three -->
+			<section id="three" class="wrapper special">
+				<div class="inner">
+					<header class="align-center">
+						<h2>Nunc Dignissim</h2>
+						<p>Aliquam erat volutpat nam dui </p>
+					</header>
+					<div class="flex flex-2">
 						<article>
+							<div class="image fit">
+								<img src="images/pic01.jpg" alt="Pic 01" />
+							</div>
 							<header>
-								<h3>#DonateBloodHosur<br /> </h3>
+								<h3>Praesent placerat magna</h3>
 							</header>
-							<p> tweet us @watsonmytown with hash tag #DonateBloodHosur<br /> For Benefits of Blood Donation Click on More</p>
-							<footer>
-								<a href="https://www.organicfacts.net/health-benefits/other/blood-donation.html" class="button special">More</a>
-							</footer>
-						</article>
-						<article>
-							<header>
-								<h3>#OrphanHosur<br /> </h3>
-							</header>
-							<p>Want to help the Orphanage to locate Click More <br /><br /><br /></p>
+							<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor lorem ipsum.</p>
 							<footer>
 								<a href="#" class="button special">More</a>
 							</footer>
 						</article>
 						<article>
+							<div class="image fit">
+								<img src="images/pic02.jpg" alt="Pic 02" />
+							</div>
+							<header>
+								<h3>Fusce pellentesque tempus</h3>
+							</header>
+							<p>Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. Pellentesque egestas sem. Suspendisse commodo ullamcorper magna non comodo sodales tempus.</p>
+							<footer>
+								<a href="#" class="button special">More</a>
+							</footer>
 						</article>
 					</div>
 				</div>
 			</section>
-
 
 		<!-- Footer -->
 			<footer id="footer">
